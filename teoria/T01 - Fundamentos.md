@@ -450,9 +450,12 @@ Los SGBD son muy diversos entre sí y pueden presentar diferentes conjuntos de f
 >  - SQLite
 >  - PostgreSQL
 >  - Neo4J
-
-### 4.5. Clasificación de los SGBD
+·
+ 4.5. Clasificación de los SGBD
 Los SGBD pueden ser clasificados en base a múltiples dimensiones ortogonales. Algunas de estas dimensiones y algunos de sus valores son:
+
+#nota
+
 
 - Dimensión modelo de datos
 	- Heredado: jerárquico o red.
